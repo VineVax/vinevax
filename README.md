@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Discord](https://lanyard.cnrad.dev/api/177758920167653376)](https://discord.com/users/177758920167653376?hideDiscrim=true&hideTimestamp=true)
+[![Discord](https://lanyard.cnrad.dev/api/177758920167653376?hideDiscrim=true&hideTimestamp=true)]
 
 <!--
 
