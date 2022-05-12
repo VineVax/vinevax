@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+[![Discord](https://lanyard.cnrad.dev/api/177758920167653376)](https://discord.com/users/177758920167653376?hideDiscrim=true&hideTimestamp=true)
+
 <!--
-**vinevax/vinevax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
